@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Hexo加密功能</title>
+      <link href="/2024/12/22/test/"/>
+      <url>/2024/12/22/test/</url>
+      
+        <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <script id="hbeData" type="hbeData" data-hmacdigest="4a3512807cfd2447e2e0fcc63698bc102ea4a7bb9604fbf31cb85bcccd06cab6">f4cc23558ba95030556638b09840cfb7c4f2810e30f55d5b3421b66777acdd957fb993acea7364721694b1b3e0de6e8ea63c03593e44c1c4ccbd9ccc6b772b99f37777c3f65abfe7c29cb3968ed82b3f6b585edceda615dccd80e1dcc11c2739c350d8cfc4a4348dc58e610372be20cf3eddfb0de920e26cc672cbf55d8c91a6</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">请输入密码</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      
+      
+      <categories>
+          
+          <category> Hexo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> [学习笔记,Hexo] </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>如何写文章</title>
       <link href="/2024/12/21/%E5%A6%82%E4%BD%95%E5%86%99%E6%96%87%E7%AB%A0/"/>
       <url>/2024/12/21/%E5%A6%82%E4%BD%95%E5%86%99%E6%96%87%E7%AB%A0/</url>
